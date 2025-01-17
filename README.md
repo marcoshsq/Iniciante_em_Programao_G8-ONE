@@ -24,7 +24,7 @@ Este repositório contém as atividades e projetos realizados durante a formaç�
 
 ### **Lista dos diretórios em Ordem:**
 
-1. **[Lógica de programação: mergulhe em programação com JavaScript]()**  
+1. **[Lógica de programação: mergulhe em programação com JavaScript](https://github.com/marcoshsq/Iniciante_em_Programao_G8-ONE/tree/main/Curso%2001%20-%20Logica%20de%20programa%C3%A7ao%20-%20mergulhe%20em%20programa%C3%A7%C3%A3o%20com%20JavaScript/logica-js-projeto_inicial/logica-js-projeto_inicial)**  
 2. **[Lógica de programação: explore funções e listas]()**  
 3. **[Git e GitHub: compartilhando e colaborando em projetos]()**  
 4. **[Praticando lógica de programação: Challenge amigo secreto]()**  
