@@ -31,7 +31,7 @@ alert(mensagem_erro);
 
 /* 8 - Use um prompt para perguntar o nome do usuário e armazená-lo na variável nome.*/
 
-let nome = prompt("Digite seu nome: ");
+let name = prompt("Digite seu nome: ");
 
 /* 9 - Peça ao usuário para digitar sua idade usando um prompt e armazene-a na variável idade.*/
 
@@ -42,4 +42,4 @@ let idade = prompt("Digite sua idade: ");
 let idade = prompt("Digite sua idade: ");
 if (idade >= 18) {
     alert("Pode tirar a habilitação!")
-}
+};
