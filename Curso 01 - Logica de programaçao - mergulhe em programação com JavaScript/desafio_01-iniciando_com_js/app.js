@@ -10,7 +10,7 @@ let nome = "Lua";
 
 /* 3 - Crie uma variável chamada idade e atribua a ela o valor 25.*/
 
-let idade = 25;
+var idade = 25;
 
 /* 4 - Defina uma variável numeroDeVendas e atribua a ela o valor 50.*/
 

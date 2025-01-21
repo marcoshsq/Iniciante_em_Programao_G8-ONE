@@ -43,16 +43,13 @@ body::before {
 .container__conteudo {
     display: flex;
     align-items: center;
-    justify-content: center;
-    height: 100%; 
-    width: 100%; 
+    position: absolute;
+    bottom: 0;
 }
 
 .container__informacoes {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+    flex: 1;
+    padding: 20px;
 }
 
 .container__botao {
