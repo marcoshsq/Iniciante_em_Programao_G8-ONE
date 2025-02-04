@@ -1,4 +1,7 @@
 
+//Fazendo teste de git push
+// Jogo de adivinhação
+
 let listaDeNumerosSorteados = [];
 let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
