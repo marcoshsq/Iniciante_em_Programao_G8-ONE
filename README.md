@@ -28,9 +28,9 @@ Este repositório contém as atividades e projetos realizados durante a formaç�
 2. **[Lógica de programação: explore funções e listas](https://github.com/marcoshsq/Iniciante_em_Programao_G8-ONE/tree/main/Curso%2002%20-%20Logica%20de%20programa%C3%A7ao%20-%20explore%20fun%C3%A7%C3%B5es%20e%20listas)**  
 3. **[Git e GitHub: compartilhando e colaborando em projetos](https://github.com/marcoshsq/Iniciante_em_Programao_G8-ONE/tree/main/Curso%2003%20-%20Git%20e%20GitHub/projeto_curso_03)**  
 4. **[Praticando lógica de programação: Challenge amigo secreto]()**  
-5. **[ChatGPT: otimizando a qualidade dos resultados]()**  
-6. **[HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags]()**  
-7. **[HTML e CSS: classes, posicionamento e Flexbox]()**  
-8. **[HTML e CSS: cabeçalho, footer e variáveis CSS]()**  
+5. **[ChatGPT: otimizando a qualidade dos resultados](https://github.com/marcoshsq/Iniciante_em_Programao_G8-ONE/tree/main/Curso%2005%20-%20ChatGPT%20-%20otimizando%20a%20qualidade%20dos%20resultados)**  
+6. **[HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/marcoshsq/Iniciante_em_Programao_G8-ONE/tree/main/Curso%2006%20-%20HTML%20e%20CSS%20-%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags)**  
+7. **[HTML e CSS: classes, posicionamento e Flexbox](https://github.com/marcoshsq/Iniciante_em_Programao_G8-ONE/tree/main/Curso%2007%20-%20HTML%20e%20CSS%20-%20Classes%2C%20posicionamento%20e%20Flexbox/projeto_curso-07)**  
+8. **[HTML e CSS: cabeçalho, footer e variáveis CSS](https://github.com/marcoshsq/Iniciante_em_Programao_G8-ONE/tree/main/Curso%2008%20-%20HTML%20e%20CSS%20-%20cabe%C3%A7alho%2C%20footer%20e%20variaveis%20CSS/projeto_curso-08)**  
 9. **[HTML e CSS: trabalhando com responsividade e publicação de projetos]()**  
 
