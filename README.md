@@ -32,5 +32,5 @@ Este repositório contém as atividades e projetos realizados durante a formaç�
 6. **[HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/marcoshsq/Iniciante_em_Programao_G8-ONE/tree/main/Curso%2006%20-%20HTML%20e%20CSS%20-%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags)**  
 7. **[HTML e CSS: classes, posicionamento e Flexbox](https://github.com/marcoshsq/Iniciante_em_Programao_G8-ONE/tree/main/Curso%2007%20-%20HTML%20e%20CSS%20-%20Classes%2C%20posicionamento%20e%20Flexbox/projeto_curso-07)**  
 8. **[HTML e CSS: cabeçalho, footer e variáveis CSS](https://github.com/marcoshsq/Iniciante_em_Programao_G8-ONE/tree/main/Curso%2008%20-%20HTML%20e%20CSS%20-%20cabe%C3%A7alho%2C%20footer%20e%20variaveis%20CSS/projeto_curso-08)**  
-9. **[HTML e CSS: trabalhando com responsividade e publicação de projetos]()**  
+9. **[HTML e CSS: trabalhando com responsividade e publicação de projetos](https://github.com/marcoshsq/Iniciante_em_Programao_G8-ONE/tree/main/Curso%2009%20-%20HTML%20e%20CSS%20-%20trabalhando%20com%20responsividade%20e%20publica%C3%A7%C3%A3o%20de%20projetos/projeto_curso-09)**  
 
